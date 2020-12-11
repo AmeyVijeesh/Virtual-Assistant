@@ -50,7 +50,7 @@ Take a screenshot
 Many more.....
 
 Hope that you easily understand the code. Make sure to add your user id so that it works properly. You can add more features as per
-as your requirments. 
+as your requirements. 
 
 Enjoy!
 
