@@ -30,14 +30,23 @@ The first thing that comes to your mind when you think of an assistant is about 
 and google assistant can do plenty of things, and Creta is no exeption.
 
 It can:
+
 Search google
+
 Tell the time
+
 Tell the weather
+
 Search the web
+
 Open websites and apps with ease
+
 Talk to you
+
 Search wikipedia
+
 Take a screenshot
+
 Many more.....
 
 Hope that you easily understand the code. Make sure to add your user id so that it works properly. You can add more features as per
