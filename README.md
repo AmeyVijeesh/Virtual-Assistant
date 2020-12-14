@@ -30,7 +30,7 @@ The first thing that comes to your mind when you think of an assistant is about 
 and google assistant can do plenty of things, and Creta is no exeption.
 
 It can:
-
+ 
 Search google
 
 Tell the time
